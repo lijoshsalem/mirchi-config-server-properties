@@ -1,0 +1,1 @@
+# mirchi-config-server-properties
